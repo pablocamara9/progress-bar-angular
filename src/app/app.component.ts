@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'UD2-04-barra-progreso';
+  valorProgreso=0;
 }
